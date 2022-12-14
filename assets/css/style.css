@@ -10,6 +10,10 @@ body{
     background-color: #949494;
     
 }
+.fa fa-globe, fa fa-github{
+    color: #e0dcdc;
+    text-decoration: none;
+}
 .main-content{
     min-height: 100vh;
     width: 80%;
