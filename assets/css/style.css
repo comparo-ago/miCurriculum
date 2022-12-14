@@ -10,7 +10,11 @@ body{
     background-color: #949494;
     
 }
-.fa fa-globe, fa fa-github{
+.github{
+    color: #e0dcdc;
+    text-decoration: none;
+}
+.globe{
     color: #e0dcdc;
     text-decoration: none;
 }
